@@ -1,5 +1,5 @@
 {
-    "name": "matriphe/supervisor",
+    "name": "masakik/supervisor",
     "description": "Generate Supervisor config for monitoring Laravel worker process",
     "keywords": ["laravel", "supervisor", "config", "generator", "command"],
 
