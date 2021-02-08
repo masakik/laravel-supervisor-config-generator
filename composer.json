@@ -2,9 +2,6 @@
     "name": "matriphe/supervisor",
     "description": "Generate Supervisor config for monitoring Laravel worker process",
     "keywords": ["laravel", "supervisor", "config", "generator", "command"],
-    "require": {
-        "illuminate/console": "~5.0|~6.0|~7.0|~8"
-    },
     "require-dev": {
         "mockery/mockery": "^1.0",
         "orchestra/testbench": "~3.0",
